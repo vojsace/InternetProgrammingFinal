@@ -1,0 +1,11 @@
+C:\Users\Vojce\Desktop\V Semestar Polaganje\FinalInternetProgramming\WebApiProject\SportDataAccess\bin\Debug\SportDataAccess.dll.config
+C:\Users\Vojce\Desktop\V Semestar Polaganje\FinalInternetProgramming\WebApiProject\SportDataAccess\bin\Debug\SportDataAccess.dll
+C:\Users\Vojce\Desktop\V Semestar Polaganje\FinalInternetProgramming\WebApiProject\SportDataAccess\bin\Debug\SportDataAccess.pdb
+C:\Users\Vojce\Desktop\V Semestar Polaganje\FinalInternetProgramming\WebApiProject\SportDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Vojce\Desktop\V Semestar Polaganje\FinalInternetProgramming\WebApiProject\SportDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vojce\Desktop\V Semestar Polaganje\FinalInternetProgramming\WebApiProject\SportDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Vojce\Desktop\V Semestar Polaganje\FinalInternetProgramming\WebApiProject\SportDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vojce\Desktop\V Semestar Polaganje\FinalInternetProgramming\WebApiProject\SportDataAccess\obj\Debug\SportDataAccess.csprojAssemblyReference.cache
+C:\Users\Vojce\Desktop\V Semestar Polaganje\FinalInternetProgramming\WebApiProject\SportDataAccess\obj\Debug\SportDataAccess.csproj.CopyComplete
+C:\Users\Vojce\Desktop\V Semestar Polaganje\FinalInternetProgramming\WebApiProject\SportDataAccess\obj\Debug\SportDataAccess.dll
+C:\Users\Vojce\Desktop\V Semestar Polaganje\FinalInternetProgramming\WebApiProject\SportDataAccess\obj\Debug\SportDataAccess.pdb

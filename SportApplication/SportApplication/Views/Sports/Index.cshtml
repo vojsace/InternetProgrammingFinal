@@ -1,0 +1,34 @@
+﻿@model IEnumerable<SportApplication.Models.Sport>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Sports</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SportTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                <a asp-controller="Enrollments" asp-action="Players" asp-route-id="@item.SportID">@Html.DisplayFor(modelItem => item.SportTitle)</a>
+               
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
